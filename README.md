@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PxnTxgoN&count_private=true&theme=radical" alt="PxnTxgoN" />
 
 ----
-Credit: [Justin](https://github.com/pxntxgon)
+Credit: [Джастин](https://github.com/pxntxgon)
 
 Last Edited on: 30/03/2022
 
